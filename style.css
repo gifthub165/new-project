@@ -12,9 +12,6 @@
         color: white;
         margin-left: 5px;
     }
-    button:hover{
-        background-color: aliceblue;
-    }
     hr{
         background-color: blue;
         height:2px ;
